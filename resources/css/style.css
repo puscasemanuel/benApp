@@ -200,7 +200,7 @@ header {
       rgba(0, 0, 0, 0.7)
     ),
     url(img/hero.jpg);
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
     url('https://images.unsplash.com/photo-1496857239036-1fb137683000?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80');
   background-size: cover;
   background-position: center;
@@ -515,6 +515,9 @@ cite img {
   color: #e67e22;
 }
 
+.money-color {
+  color: #e67e22;
+}
 .plan-price span {
   font-size: 30%;
   font-weight: 300;
